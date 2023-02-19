@@ -9,6 +9,7 @@
     <h1>
       Hello World!
        <p>Funfact about me!
+        <br>
         <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100px"/>
      </p>
     </h1>
@@ -50,7 +51,9 @@ I am a Front-end Developer & UI and UX designer  <img src="https://media.giphy.c
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Vibe-Called-Web&theme=tokyonight&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Vibe-Called-Web&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **A-Vibe-Called-Web/A-Vibe-Called-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
