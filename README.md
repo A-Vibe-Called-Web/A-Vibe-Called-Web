@@ -13,6 +13,28 @@
         <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100px"/>
      </h2>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE3NjFkY2E0NWI2YWI0OTkyN2M0ZDkyZTZmZWVlNzAwMjZmZGQ0ZiZjdD1n/qCclcuNYBth4sNUMZW/giphy.gif" width="300" height="300"/>
+</div>
+
+---
+
+### :technologist: About Me :
+
+I am a Front-end Developer & UI and UX designer  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="30"> from the UK.
+- :telescope: I’m working as a Front-end Developer and contributing to frontend and design for building websites and applications.
+
+- :seedling: Exploring Front-end and UI/UX Principals.
+
+- :zap: In my free time, I like to learn coding methods and design techniques and put them to practice. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tj-collado-0b3ba8207/))
+
+
+
+
+
+
 
 <!--
 **A-Vibe-Called-Web/A-Vibe-Called-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
