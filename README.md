@@ -8,10 +8,11 @@
     <img src="https://komarev.com/ghpvc/?username=A-Vibe-Called-Web&style=flat-square&color=blue" alt=""/>
     <h1>
       Hello World!
-    </h1>
-    <h2>Funfact about me!
+       <p>Funfact about me!
         <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100px"/>
-     </h2>
+     </p>
+    </h1>
+   
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE3NjFkY2E0NWI2YWI0OTkyN2M0ZDkyZTZmZWVlNzAwMjZmZGQ0ZiZjdD1n/qCclcuNYBth4sNUMZW/giphy.gif" width="300" height="300"/>
@@ -30,12 +31,26 @@ I am a Front-end Developer & UI and UX designer  <img src="https://media.giphy.c
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timothy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tj-collado-0b3ba8207/)
 
+---
+### :paintbrush: I Design using these tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="CSS" alt="CSS 3" width="40" height="40"/>&nbsp
+</div>
 
+### :computer: I Develop using these languages :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS 3" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="JS" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>&nbsp
+</div>
 
+---
 
+### :fire: My Stats :
 
-
-
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 <!--
 **A-Vibe-Called-Web/A-Vibe-Called-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
